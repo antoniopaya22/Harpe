@@ -15,5 +15,5 @@ research and improvement of SDP security mechanisms.
 
 ## Harpe
 
-![Harpe](/documentation/images/Harpe-Integration.png)
-![Harpe](/documentation/images/Harpe-WGAN-GP.png)
+<img src="documentation/images/Harpe-Integration.png" height="600" />
+<img src="documentation/images/Harpe-WGAN-GP.png" height="600" />
